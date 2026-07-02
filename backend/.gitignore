@@ -1,0 +1,10 @@
+# Environment secrets — never commit these
+.env
+
+# Build output
+/backend
+
+# Go toolchain
+*.exe
+*.out
+vendor/
